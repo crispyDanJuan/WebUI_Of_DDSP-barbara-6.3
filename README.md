@@ -1,5 +1,7 @@
 # DDSP Studio WebUI
 
+本工具使用DeepSeek V4.1 Flash 1017制作。
+
 DDSP-barbara-6.3 的本地 WebUI 增强包。数据预处理、训练、推理、模型管理、结果试听、TensorBoard、实时变声和音频工具箱都可以在浏览器中完成。
 
 > 这是 **DDSP-barbara-6.3 的叠加增强包，不是完整整合包**。  
